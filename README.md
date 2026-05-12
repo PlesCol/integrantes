@@ -5,5 +5,6 @@
 
 - Esteban Alvarez
 
+- Roy Gonzalez
 - Juan Franco💻
 
